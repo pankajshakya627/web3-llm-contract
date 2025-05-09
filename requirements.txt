@@ -1,0 +1,8 @@
+openai>=1.14.0            
+click>=8.1.7               
+python-dotenv>=1.0.1      
+pydantic>=2.5.3
+web3>=6.13.0               
+eth_account>=0.10.0
+requests>=2.31.0 
+slither-analyzer>=0.10.0 
